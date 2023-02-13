@@ -1,0 +1,33 @@
+.video-card {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 8px;
+    cursor: pointer;
+}
+
+.video-card-channel {
+    font-size: 0.75rem;
+}
+
+.video-card-views {
+    font-size: 0.75rem;
+}
+
+// @media (max-width: 1408px) {
+//     .video-card {
+//         justify-content: flex-start;
+//     }
+// }
+
+// @media (max-width: 1040px) {
+//     .video-card {
+//         justify-content: flex-start;
+//     }
+// }
+
+// @media (max-width: 700px) {
+//     .video-card {
+//         justify-content: flex-start;
+//     }
+// }
